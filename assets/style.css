@@ -1,0 +1,11 @@
+/*--------------------------------------------Alignment*/
+
+.list-inline-menucontainer {
+    text-align: left;
+    color: black;
+}
+
+.container.fluid {
+    background-color: #800080;
+     color: yellow;
+}
