@@ -1,11 +1,33 @@
-/*--------------------------------------------Alignment*/
+/*--------------------------------------------Colours*/
 
-.list-inline-menucontainer {
-    text-align: left;
-    color: black;
+
+
+.container-fluid {
+    background-color: #800080;
+    color: yellow;
 }
 
-.container.fluid {
-    background-color: #800080;
-     color: yellow;
+/*--------------------------------------------Nav Bar*/
+
+.menuitem {
+    background-color: green;
+    color: blueviolet;
+    text-align: left;
+}
+
+.nav-page1 {
+    color: yellow;
+    background-color: yellow;
+}
+
+.nav-page2 {
+
+}
+
+.nav-page3 {
+
+}
+
+.page-text {
+    text-align: center;
 }
